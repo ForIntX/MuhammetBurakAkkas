@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Muhammet Burak Akkaş</h1>
 <h3 align="center">
-Software Engineering Student | Flutter Developer | C++ & OpenGL Learner | Game Development Enthusiast
+Software Engineering Student | C++ & OpenGL Learner | Game Development Enthusiast
 </h3>
 
 ---
@@ -18,8 +18,6 @@ I enjoy turning ideas into real projects, learning by building, and improving my
 
 ##  What I'm Currently Working On
 
--  A Flutter-based math mini-games application
--  Mobile app development with Flutter and Dart
 -  AI-supported health software project (Django + HTML/CSS/JS)
 -  Reinforcement learning AI project with Python
 -  C++ fundamentals and OpenGL graphics programming
@@ -36,7 +34,7 @@ I enjoy turning ideas into real projects, learning by building, and improving my
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,django,git,github,vscode,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,firebase" />
 </p>
 
 ---
@@ -46,8 +44,6 @@ I enjoy turning ideas into real projects, learning by building, and improving my
 ###  Game Development
 I am building small but complete games to improve my programming, UI design, logic, and project structure skills.
 
-###  Mobile Development
-I use Flutter to create mobile applications with clean UI, state management, monetization systems, and scalable structure.
 
 ###  Artificial Intelligence & Health
 I am developing an AI-supported health software project for school.
