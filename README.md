@@ -62,13 +62,20 @@ I am learning C++ and OpenGL to understand graphics programming, rendering pipel
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ForIntX&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ForIntX&show_icons=true&theme=tokyonight"
+    alt="ForIntX GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForIntX&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ForIntX&layout=compact&theme=tokyonight"
+    alt="ForIntX Top Languages"
+  />
 </p>
 
 ---
