@@ -34,7 +34,7 @@ I enjoy turning ideas into real projects, learning by building, and improving my
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux" />
 </p>
 
 ---
