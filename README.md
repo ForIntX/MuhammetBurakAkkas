@@ -69,14 +69,13 @@ I am learning C++ and OpenGL to understand graphics programming, rendering pipel
     src="https://github-stats-extended.vercel.app/api?username=ForIntX&show_icons=true&theme=tokyonight"
     alt="ForIntX GitHub Stats"
   />
-</p>
-
-<p align="center">
-  <img
+    <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=ForIntX&layout=compact&theme=tokyonight"
     alt="ForIntX Top Languages"
   />
 </p>
+
+
 
 ---
 
