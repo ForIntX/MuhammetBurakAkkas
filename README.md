@@ -29,7 +29,7 @@ I enjoy turning ideas into real projects, learning by building, and improving my
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,cpp,python,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
 </p>
 
 ### Frameworks & Tools
