@@ -92,5 +92,5 @@ I am learning C++ and OpenGL to understand graphics programming, rendering pipel
 ---
 
 <h3 align="center">
-I am still learning, building, and improving every day 🚀
+I am still learning, building, and improving every day 
 </h3>
